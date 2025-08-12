@@ -1,0 +1,6 @@
+{
+  "name": "kirei-meshcentral",
+  "version": "1.0.0",
+  "scripts": { "start": "bash start.sh" },
+  "dependencies": { "meshcentral": "^1.1.0" }
+}
